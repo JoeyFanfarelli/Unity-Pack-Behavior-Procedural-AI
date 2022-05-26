@@ -1,0 +1,15 @@
+Assets/FishNet/
+
+DefaultPrefabObjects.asset
+DefaultPrefabObjects.asset.meta
+/Library/
+/Packages/
+/ProjectSettings/
+/Temp/
+/Builds/
+/UserSettings/
+/Obj/
+/Logs/
+*.csproj
+*.vs/
+*.vsconfig
